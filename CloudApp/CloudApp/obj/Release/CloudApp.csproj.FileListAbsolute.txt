@@ -1,0 +1,4 @@
+D:\Personal\UNWE\Magistri\LAZAROVA\CloudApp\CloudApp\CloudApp\bin\CloudApp.dll
+D:\Personal\UNWE\Magistri\LAZAROVA\CloudApp\CloudApp\CloudApp\bin\CloudApp.pdb
+D:\Personal\UNWE\Magistri\LAZAROVA\CloudApp\CloudApp\CloudApp\obj\Release\CloudApp.dll
+D:\Personal\UNWE\Magistri\LAZAROVA\CloudApp\CloudApp\CloudApp\obj\Release\CloudApp.pdb
