@@ -5,12 +5,21 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>My Cloud application</title>
+    <style type="text/css">
+        .mystyle 
+            { font-family: "Times New Roman", Times, serif;
+              font-size: larger; }
+    </style>
 </head>
-<body>
+<body class="mystyle">
     <form id="form1" runat="server">
     <div>
     This is my Cloud application in one page.
+    </div>
+    <div> 
     Let's try one change.
+    </div>
+    <div> 
     This is a university project!
     </div>
     </form>
